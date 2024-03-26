@@ -13,11 +13,11 @@
   padding-top: 15pt;
 }
 
-.right-image {
+img {
   height: auto;
-  width: 1000px;
+  width: 500px;
   float: right;
-  padding-right: 50px;
+  padding-right: 300px;
 }
 
 .page-content {
